@@ -3,7 +3,7 @@ from diffusers import StableDiffusionPipeline
 
 model_id = "CompVis/stable-diffusion-v1-4"
 
-# Specify GPU "CUDA"
+# Specify GPU "CUDA-NVIDIA"
 device = "cuda" 
 
 # promp
